@@ -1,0 +1,12 @@
+Uuid: 80eb8fd46bf847b4b17861482c2f2a30
+ExtensionType: 2
+Name: Discover Reverse Tabnabbing
+RepoName: discovering-reversetabnabbing
+ScreenVersion: 1.0
+SerialVersion: 2
+MinPlatformVersion: 0
+ProOnly: True
+Author: GabsJahBless
+ShortDescription: Identify areas in your application that are vulnerable to Reverse Tabnabbing.
+EntryPoint: discoveringRT.py
+BuildCommand: 
